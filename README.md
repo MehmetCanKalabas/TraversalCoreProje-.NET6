@@ -1,0 +1,2 @@
+# TraversalCoreProje-.NET6
+ 
