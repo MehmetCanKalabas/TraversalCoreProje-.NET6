@@ -1,7 +1,27 @@
+using DataAccessLayer.Concrete;
+using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization;
+using System.Net;
+
 var builder = WebApplication.CreateBuilder(args);
 
+//Ekledim
+builder.Services.AddDbContext<Context>();
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Ekledim
+builder.Services.AddMvc(config =>
+{
+    var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+    config.Filters.Add(new AuthorizeFilter(policy));
+});
+
+//Ekledim
+builder.Services.AddMvc();
+
 
 var app = builder.Build();
 
@@ -15,6 +35,9 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+//Ekledim
+app.UseAuthentication();
 
 app.UseRouting();
 
