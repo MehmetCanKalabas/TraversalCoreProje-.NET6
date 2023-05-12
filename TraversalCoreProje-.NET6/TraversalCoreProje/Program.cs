@@ -1,9 +1,13 @@
 using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
+using BusinessLayer.ValidationRules;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
+using DTOLayer.DTOs.AnnouncementDTOs;
 using EntityLayer.Concrete;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using System.Net;
@@ -12,15 +16,43 @@ using TraversalCoreProje.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 //Ekledim
+builder.Services.AddLogging(x =>
+{
+    x.ClearProviders();
+    x.SetMinimumLevel(LogLevel.Debug);
+    x.AddDebug();   
+});
+
 builder.Services.AddDbContext<Context>();
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
 
 //Ekledim
 builder.Services.AddScoped<ICommentService, CommentManager>();
 builder.Services.AddScoped<ICommentDal, EfCommentDal>();
+builder.Services.AddScoped<IDestinationService, DestinationManager>();
+builder.Services.AddScoped<IDestinationDal, EfDestinationDal>();
+builder.Services.AddScoped<IAppUserService, AppUserManager>();
+builder.Services.AddScoped<IAppUserDal, EfAppUserDal>();
+builder.Services.AddScoped<IReservationService, ReservationManager>();
+builder.Services.AddScoped<IReservationDal, EfReservationDal>();
+builder.Services.AddScoped<IGuideService, GuideManager>();
+builder.Services.AddScoped<IGuideDal, EfGuideDal>();
+builder.Services.AddScoped<IContactUsService, ContactUsManager>();
+builder.Services.AddScoped<IContactUsDal, EfContactUsDal>();
+builder.Services.AddScoped<IAnnouncementService, AnnouncementManager>();
+builder.Services.AddScoped<IAnnouncementDal, EfAnnouncementDal>();
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IExcelService, ExcelManager>();
+builder.Services.AddScoped<IPdfService, PdfManager>();
+
+//Ekledim
+builder.Services.AddAutoMapper(typeof(Program));
+
+builder.Services.AddTransient<IValidator<AnnouncementAddDto>, AnnouncementValidator>();
+
+// Ekledim
+//builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddFluentValidation();
 
 //Ekledim
 builder.Services.AddMvc(config =>
@@ -42,6 +74,8 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404","?code={0}");
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
