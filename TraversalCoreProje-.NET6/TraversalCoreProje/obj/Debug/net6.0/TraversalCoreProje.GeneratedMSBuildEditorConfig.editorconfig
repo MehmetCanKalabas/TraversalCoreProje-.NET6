@@ -27,6 +27,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQW5ub3VuY2VtZW50XFVwZGF0ZUFubm91bmNlbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/ApiExchange/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBpRXhjaGFuZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/ApiMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBpTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/BookingHotelSearch/GetCityDestID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va2luZ0hvdGVsU2VhcmNoXEdldENpdHlEZXN0SUQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/BookingHotelSearch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va2luZ0hvdGVsU2VhcmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/City/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2l0eVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -77,6 +93,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/User/ReservationUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxSZXNlcnZhdGlvblVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/VisitorApi/AddVisitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxBZGRWaXNpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/VisitorApi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/VisitorApi/UpdateVisitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxVcGRhdGVWaXNpdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/TraversalCoreProje/TraversalCoreProje/Areas/Admin/Views/_ViewImports.cshtml]
