@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WVMHD0E7To++XuhV1UKwjuWdEUfea2gqVSkQPZlAFKw87ihgcu7n59cock+5yULiRje+WfaiPZe5s2lMMGB/Mw==",
+  "dgSpecHash": "Q+mZm471SmaS19D0SsZyrEux/fNV0P4R9mwiiQ7xiTHKKIKazZdzUTYBf9lq3TWP2eFLmmzR9okuWF0d5FM2QA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\TraversalCoreProje\\TraversalCoreProje.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,9 @@
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\irony.netcore\\1.0.11\\irony.netcore.1.0.11.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\itextsharp.lgplv2.core\\3.3.5\\itextsharp.lgplv2.core.3.3.5.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\mailkit\\4.0.0\\mailkit.4.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
@@ -79,7 +82,7 @@
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
-    "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",

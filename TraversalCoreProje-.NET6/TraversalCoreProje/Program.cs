@@ -1,16 +1,21 @@
 using BusinessLayer.Abstract;
+using BusinessLayer.Abstract.AbstractUow;
 using BusinessLayer.Concrete;
+using BusinessLayer.Concrete.ConcreteUow;
 using BusinessLayer.ValidationRules;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
+using DataAccessLayer.UnitOfWork;
 using DTOLayer.DTOs.AnnouncementDTOs;
 using EntityLayer.Concrete;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using System.Net;
+using TraversalCoreProje.CQRS.Handlers.DestinationHandlers;
 using TraversalCoreProje.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -46,6 +51,20 @@ builder.Services.AddScoped<IAnnouncementDal, EfAnnouncementDal>();
 
 builder.Services.AddScoped<IExcelService, ExcelManager>();
 builder.Services.AddScoped<IPdfService, PdfManager>();
+
+builder.Services.AddScoped<GetAllDestinationQueryHandler>();
+builder.Services.AddScoped<GetDestinationByIDQueryHandler>();
+builder.Services.AddScoped<CreateDestinationCommandHandle>();
+builder.Services.AddScoped<RemoveDestinationCommandHandler>();
+builder.Services.AddScoped<UpdateDestinationCommandHandler>();
+
+builder.Services.AddScoped<IAccountService, AccountManager>();
+builder.Services.AddScoped<IAccountDal, EfAccountDal>();
+
+builder.Services.AddScoped<IUowDal, UowDal>();
+
+builder.Services.AddMediatR(typeof(Program));
+
 
 //Ekledim
 builder.Services.AddAutoMapper(typeof(Program));
