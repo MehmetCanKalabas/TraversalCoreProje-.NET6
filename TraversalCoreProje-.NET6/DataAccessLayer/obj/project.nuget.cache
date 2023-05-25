@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k91o6ODJ/+lLXhouLI0N68Uxk8AXhvCsJ58v7b0FWwJOqvpdy3UyisQHOZpLCt5ta+pCdkVDyD6zoDnJjXYvdw==",
+  "dgSpecHash": "9d8f2K0V1bfmoj1097xgUeQE5m69lD0PIpXE3edjavO+4khxmAP0UcDJQlZz0+0njKPlzQdjc4R2WwIPzUt7iA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Github\\TraversalCoreProje-.NET6\\TraversalCoreProje-.NET6\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -10,3 +10,15 @@ C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\TraversalCoreProje\DTOLayer\obj\De
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\refint\DTOLayer.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.pdb
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\ref\DTOLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\bin\Debug\net6.0\DTOLayer.deps.json
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\bin\Debug\net6.0\DTOLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\bin\Debug\net6.0\DTOLayer.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\DTOLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfo.cs
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\DTOLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\refint\DTOLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\DTOLayer.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\DTOLayer\obj\Debug\net6.0\ref\DTOLayer.dll

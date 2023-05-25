@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj": {}
+    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Github\\TraversalCoreProje-.NET6\\TraversalCoreProje-.NET6\\DTOLayer\\DTOLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj": {
+    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Github\\TraversalCoreProje-.NET6\\TraversalCoreProje-.NET6\\DTOLayer\\DTOLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Github\\TraversalCoreProje-.NET6\\TraversalCoreProje-.NET6\\DTOLayer\\DTOLayer.csproj",
         "projectName": "DTOLayer",
-        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\DTOLayer\\DTOLayer.csproj",
+        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Github\\TraversalCoreProje-.NET6\\TraversalCoreProje-.NET6\\DTOLayer\\DTOLayer.csproj",
         "packagesPath": "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\DTOLayer\\obj\\",
+        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Github\\TraversalCoreProje-.NET6\\TraversalCoreProje-.NET6\\DTOLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

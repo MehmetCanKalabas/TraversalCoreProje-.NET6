@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XcyGw/v7FXWZQKAjrC2KVAONQhSuGcsQeD6SRwOIpnNAXjD67RTPYRypq3BIlnW4YX25aLeFbFjewF4kK6xwfA==",
+  "dgSpecHash": "4nhjlX/DhUf99YkWs6NyYA9SYUp41q8gAI/W6MbpUBD1TDcfe726RuXdKf2stlOMuDAa0PILrq9yQ69mqHbPLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\SignalRConsume\\SignalRConsume.csproj",
+  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Github\\TraversalCoreProje-.NET6\\TraversalCoreProje-.NET6\\SignalRConsume\\SignalRConsume.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

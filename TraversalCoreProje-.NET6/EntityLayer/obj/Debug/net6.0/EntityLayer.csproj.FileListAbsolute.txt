@@ -12,3 +12,17 @@ C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\TraversalCoreProje\EntityLayer\obj
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\TraversalCoreProje\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\TraversalCoreProje\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\TraversalCoreProje\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Github\TraversalCoreProje-.NET6\TraversalCoreProje-.NET6\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

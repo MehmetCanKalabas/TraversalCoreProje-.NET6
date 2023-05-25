@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RGyrYbX5N50EZla8alK2TtiJlbs5mz/ubU2+RR6i6p4HELIKAgCXvKfKffMoaRPj+TVs3oWIuQV7ZhjFNIXa0w==",
+  "dgSpecHash": "HSIrbv/0fRdvskMttBG4zUzsfO4aqKfDjKXNqggEcn4XANGr6OialSSwqyIfY9g67xfSn71x9G4odC+B2ujlCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Github\\TraversalCoreProje-.NET6\\TraversalCoreProje-.NET6\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\epplus\\6.0.7\\epplus.6.0.7.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\epplus.interfaces\\6.0.0\\epplus.interfaces.6.0.0.nupkg.sha512",

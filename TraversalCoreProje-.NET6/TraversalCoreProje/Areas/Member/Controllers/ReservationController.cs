@@ -63,5 +63,10 @@ namespace TraversalCoreProje.Areas.Member.Controllers
             
             return RedirectToAction("MyCurrentReservation");
         }
+
+        public IActionResult Deneme() 
+        { 
+            return View(); 
+        }
     }
 }
