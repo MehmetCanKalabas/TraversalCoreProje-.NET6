@@ -31,6 +31,20 @@
         },
         "runtime": {
           "TraversalCoreProje.dll": {}
+        },
+        "resources": {
+          "en/TraversalCoreProje.resources.dll": {
+            "locale": "en"
+          },
+          "es/TraversalCoreProje.resources.dll": {
+            "locale": "es"
+          },
+          "fr/TraversalCoreProje.resources.dll": {
+            "locale": "fr"
+          },
+          "tr/TraversalCoreProje.resources.dll": {
+            "locale": "tr"
+          }
         }
       },
       "AutoMapper/12.0.1": {
